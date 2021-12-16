@@ -45,7 +45,7 @@
     "typescript": "^4.5.4"
   },
   "eslintIgnore": [
-    "/.eslintrc.js",
+    "/.eslintrc.cjs",
     "/jest.config.js"
   ],
   "dependencies": {
