@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "npm-run-all dev:*",
     "dev:build": "npm run build",
-    "dev:run": "node --experimental-modules dist/module.js",
+    "dev:run": "node dist/module.js",
     "build": "parcel build src/index.ts",
     "test": "jest",
     "check": "npm-run-all check:*",
